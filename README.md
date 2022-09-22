@@ -63,6 +63,10 @@ Returns `main.json`
 
 Open `index.html` in browser
 
+Click the Start button to run the program, it should look like this:
+
+![Example](https://i.imgur.com/fNUzgjL.png)
+
 ## Credit
 
 Brian L. Stuart <blstuart@drexel.edu>

@@ -3,6 +3,7 @@
 ## For Windows Users
 
 Install WSL
+
 Within WSL Terminal Run:
 
 ```bash

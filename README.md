@@ -67,6 +67,8 @@ Click the Start button to run the program, it should look like this:
 
 ![Example](https://i.imgur.com/fNUzgjL.png)
 
+Now have some fun!!
+
 ## Credit
 
 Brian L. Stuart <blstuart@drexel.edu>

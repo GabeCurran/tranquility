@@ -27,9 +27,11 @@ Returns `tranqc`
 ## Usage
 
 Create `main.t`
+
 *Use `touch main.t` while in tranqulity directory*
 
 Create `index.html`
+
 *Use `touch index.html` while in tranqulity directory*
 
 Insert code into `main.t` and save, manual starts with these lines:

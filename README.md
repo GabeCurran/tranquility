@@ -3,7 +3,8 @@
 ## For Windows Users
 
 Install WSL
-`https://learn.microsoft.com/en-us/windows/wsl/install`
+
+[Microsoft Guide](https://learn.microsoft.com/en-us/windows/wsl/install)
 
 Within WSL Terminal Run:
 
